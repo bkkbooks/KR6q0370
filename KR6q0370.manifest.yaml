@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0370/v1
 canonical_location: https://kanripo.org/bkk/KR6q0370/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 為霖道霈禪師還山錄
   identifiers:
@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0370_000.yaml, hash: 'sha256:ff430e1f27311457c4bfb9e489061d4b994434df30ac1a2ca2dabbc5385a55e1'}
-  - {seq: 1, filename: KR6q0370_001.yaml, hash: 'sha256:d301bad17895de8911e3c590a6395c000ec4549074d01bac26c74314d637f181'}
-  - {seq: 2, filename: KR6q0370_002.yaml, hash: 'sha256:5dcd5a965c91e833ad2cdda45971f30d5bc462b1839f4735c5fcd823c1329234'}
-  - {seq: 3, filename: KR6q0370_003.yaml, hash: 'sha256:282281730995df23575092805e61bb524dc7a8f1fccb4ddc3fe8cec07d40392d'}
-  - {seq: 4, filename: KR6q0370_004.yaml, hash: 'sha256:3a0559c5511ac961954bc29e2973f3efd3b894998222bd324ded55ab08f1ac01'}
+  - {seq: 0, filename: KR6q0370_000.yaml, hash: 'sha256:1ff2ffb64039b280a853526820c5e8152f4010290553609c8e034865f851ee70'}
+  - {seq: 1, filename: KR6q0370_001.yaml, hash: 'sha256:10b2baf071f18ec26838c356b2093e36eaf28764bf5b139eaaae6c4fb80fbae5'}
+  - {seq: 2, filename: KR6q0370_002.yaml, hash: 'sha256:143ab69c5b4c8d54231e8c755bee9e4c30561452ceff8953f86fbcf753e623a0'}
+  - {seq: 3, filename: KR6q0370_003.yaml, hash: 'sha256:6bbc321d7e0d9b45a433bbbde7d4c70347d71c62fab8923e4e43073ab7ac140d'}
+  - {seq: 4, filename: KR6q0370_004.yaml, hash: 'sha256:afbc442b7ae260c0d39022aa75952ae7da1d524a4d624a799849a7b1205a5a2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0370_000.markers.yaml, hash: 'sha256:436a5a837e30b1bd40fbca0e8fdca4256f958cf71701d0a1f6c63094f93ee4ad'}
-  - {seq: 1, role: markers, filename: assets/KR6q0370_001.markers.yaml, hash: 'sha256:ba355e4cc8f44c8c0c39fa57b274fcbb76c994841ab28163a8297b413305de5f'}
-  - {seq: 2, role: markers, filename: assets/KR6q0370_002.markers.yaml, hash: 'sha256:677de82845bc08f73d238f23b882afa6c072e3685854f0c9fc34e55404d96d34'}
-  - {seq: 3, role: markers, filename: assets/KR6q0370_003.markers.yaml, hash: 'sha256:9aab687ab9db83951cbd367a82ff2e54a44214f49cb28761ae3273d1c9985e8f'}
-  - {seq: 4, role: markers, filename: assets/KR6q0370_004.markers.yaml, hash: 'sha256:3cacab38244ebd710873b4e0f11377634abeaed92ca33d4cef5936de706fdb16'}
+  - {seq: 0, role: markers, filename: assets/KR6q0370_000.markers.yaml, hash: 'sha256:0b8f1aac5367be93fbf878906a7922fb6e072760833b0ea91b184d9c26372e4d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0370_001.markers.yaml, hash: 'sha256:9b850e5bb85a9598d5213a0561fb22b3a6bc9c204354b74968101dec6d03c53b'}
+  - {seq: 2, role: markers, filename: assets/KR6q0370_002.markers.yaml, hash: 'sha256:2e223aa86d4001470c0e387f4fe5c23bd3ccc8a22c1668a55175f9a7960a5c3c'}
+  - {seq: 3, role: markers, filename: assets/KR6q0370_003.markers.yaml, hash: 'sha256:17ac07b3dfbe0baa641ba80bb8eb60c1d4b738e99621f731ec784c36f623af76'}
+  - {seq: 4, role: markers, filename: assets/KR6q0370_004.markers.yaml, hash: 'sha256:e663e6e275552dd0bec4609a8d348e2d8f9a91f2dc07b2f124cf7926abd94dca'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1183,4 +1183,7 @@ table_of_contents:
   label: No. 1440-D 刻支那福州鼓山為霖禪師還山錄後序
   type: mulu
   level: 1
-hash: sha256:562b53af69e7cde9bc57eec35b66d591d098c3e7d9e4d236e20a9b43e3297cd1
+hash: sha256:115154215715d86add1fd86caf2bcd73c4c389fb5f74a34230cdfc3f1aa11c70
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
