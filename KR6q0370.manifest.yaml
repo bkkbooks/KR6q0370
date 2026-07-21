@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0370_000.yaml, hash: 'sha256:1ff2ffb64039b280a853526820c5e8152f4010290553609c8e034865f851ee70'}
+  - {seq: 0, filename: KR6q0370_000.yaml, hash: 'sha256:500fa8019c81303edc6786ab4863174ab3e9b393867f8bf63865fea7a03e0a20'}
   - {seq: 1, filename: KR6q0370_001.yaml, hash: 'sha256:10b2baf071f18ec26838c356b2093e36eaf28764bf5b139eaaae6c4fb80fbae5'}
   - {seq: 2, filename: KR6q0370_002.yaml, hash: 'sha256:143ab69c5b4c8d54231e8c755bee9e4c30561452ceff8953f86fbcf753e623a0'}
   - {seq: 3, filename: KR6q0370_003.yaml, hash: 'sha256:6bbc321d7e0d9b45a433bbbde7d4c70347d71c62fab8923e4e43073ab7ac140d'}
   - {seq: 4, filename: KR6q0370_004.yaml, hash: 'sha256:afbc442b7ae260c0d39022aa75952ae7da1d524a4d624a799849a7b1205a5a2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0370_000.markers.yaml, hash: 'sha256:0b8f1aac5367be93fbf878906a7922fb6e072760833b0ea91b184d9c26372e4d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0370_000.markers.yaml, hash: 'sha256:f73ff3d1ea0928518736c35da31d448020d15b30b170cfcc41f20b91cf74d87b'}
   - {seq: 1, role: markers, filename: assets/KR6q0370_001.markers.yaml, hash: 'sha256:9b850e5bb85a9598d5213a0561fb22b3a6bc9c204354b74968101dec6d03c53b'}
   - {seq: 2, role: markers, filename: assets/KR6q0370_002.markers.yaml, hash: 'sha256:2e223aa86d4001470c0e387f4fe5c23bd3ccc8a22c1668a55175f9a7960a5c3c'}
   - {seq: 3, role: markers, filename: assets/KR6q0370_003.markers.yaml, hash: 'sha256:17ac07b3dfbe0baa641ba80bb8eb60c1d4b738e99621f731ec784c36f623af76'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0370_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1440-A 刻支那鼓山為霖禪師還山錄序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0370_X_000-mulu-2
     span:
-    - front
+    - body
     - 462
     - 462
   label: No. 1440-B 還山錄序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0370_X_000-mulu-3
     span:
-    - front
+    - body
     - 1304
     - 1304
   label: 鼓山為霖禪師還山錄目次
@@ -1183,7 +1183,7 @@ table_of_contents:
   label: No. 1440-D 刻支那福州鼓山為霖禪師還山錄後序
   type: mulu
   level: 1
-hash: sha256:115154215715d86add1fd86caf2bcd73c4c389fb5f74a34230cdfc3f1aa11c70
+hash: sha256:658d8c4d2a1d90dae2f75cc57487cb87ca119c3a03265448c10a0b7c8b90913b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
